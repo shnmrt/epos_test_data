@@ -1,26 +1,27 @@
 [
   {
-    "name":"press_20240101_20241231",
-    "url":"https://raw.githubusercontent.com/shnmrt/epos_test_data/main/",
-    "value_field":"Pressure",
-    "date_field":"Datetime"
+    "name": "press_20240101_20241231",
+    "url": "https://raw.githubusercontent.com/shnmrt/epos_test_data/main/",
+    "value_field": "Pressure",
+    "date_field": "Datetime"
   },
   {
-    "name":"press_20250101_20251231",
-    "url":"https://raw.githubusercontent.com/shnmrt/epos_test_data/main/",
-    "value_field":"Pressure",
-    "date_field":"Datetime"
+    "name": "press_20250101_20251231",
+    "url": "https://raw.githubusercontent.com/shnmrt/epos_test_data/main/",
+    "value_field": "Pressure",
+    "date_field": "Datetime"
   },
   {
-    "name":"temp_20240101_20241231",
-    "url":"https://raw.githubusercontent.com/shnmrt/epos_test_data/main/",
-    "value_field":"Temperature",
-    "date_field":"Datetime"
+    "name": "temp_20240101_20241231",
+    "url": "https://raw.githubusercontent.com/shnmrt/epos_test_data/main/",
+    "value_field": "Temperature",
+    "date_field": "Datetime"
   },
   {
-    "name":"temp_20250101_20251231",
-    "url":"https://raw.githubusercontent.com/shnmrt/epos_test_data/main/",
-    "value_field":"Temperature",
-    "date_field":"Datetime"
+    "name": "temp_20250101_20251231",
+    "url": "https://raw.githubusercontent.com/shnmrt/epos_test_data/main/",
+    "value_field": "Temperature",
+    "date_field": "Datetime"
   }
 ]
+
